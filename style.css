@@ -11,7 +11,7 @@ button{
     text-align: center;
 }
 
-#btn-1{
+#btn1{
     width: 300px;
     height: 100px;
     border: none;
@@ -19,12 +19,12 @@ button{
     transition: ease-out 0.3s;
 }
 
-#btn-1:hover {
+#btn1:hover {
     box-shadow: inset 300px 0 0 0  rgb(42, 248, 118);
     cursor: pointer;
 }
 
-#btn-2{
+#btn2{
     width: 300px;
     height: 100px;
     border: none;
@@ -32,12 +32,12 @@ button{
     transition: ease-out 0.3s;
 }
 
-#btn-2:hover {
+#btn2:hover {
     box-shadow: inset 300px 0 0 0  rgb(42, 248, 118);
     cursor: pointer;
 }
 
-#btn-3{
+#btn3{
     width: 300px;
     height: 100px;
     border: none;
@@ -45,7 +45,7 @@ button{
     transition: ease-out 0.3s;
 }
 
-#btn-3:hover {
+#btn3:hover {
     box-shadow: inset 300px 0 0 0  rgb(42, 248, 118);
     cursor: pointer;
 }
